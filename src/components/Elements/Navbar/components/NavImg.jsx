@@ -3,7 +3,7 @@ const NavImg = () => {
     <div className=" flex items-center gap-0">
       <img
         src="/src/components/public/image/logo1.png"
-        alt=""
+        alt="logo"
         className=" w-24 h-24 "
       />
     </div>
