@@ -1,5 +1,3 @@
-import MyImage from "@components/public/image/hong1.png";
-
 const Home = () => {
   return (
     <div
@@ -7,7 +5,7 @@ const Home = () => {
       className="flex justify-center flex-row min-h-screen items-center p-2 w-full">
       <div className="w-full flex justify-center">
         <img
-          src={MyImage}
+          src="/public/image/hong1.png"
           alt=""
           className="rounded-lg shadow-sm max-w-full h-auto "
         />
