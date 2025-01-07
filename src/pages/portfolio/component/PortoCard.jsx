@@ -7,7 +7,7 @@ const PortoCard = () => {
       title: "Website Tanpa Mu",
       description:
         "A simple responsive website use HTML, CSS, and JS. Click Button if you want to see this website",
-      image: "/public/image/portfolio1.png",
+      image: "/image/portfolio1.png",
       link: "https://hong541.github.io/Project-1/",
     },
     {
@@ -15,7 +15,7 @@ const PortoCard = () => {
       title: "My Landing Page",
       description:
         "A simple landing page use HTML, Bootstrap, and JS. Click Button if you want to see this website",
-      image: "/public/image/portfolio2.png",
+      image: "/image/portfolio2.png",
       link: "https://hong541.github.io/Project-4/",
     },
     {
@@ -23,7 +23,7 @@ const PortoCard = () => {
       title: "Personal Portfolio",
       description:
         "This is an individual portfolio that I built using the Tailwind CSS framework. Click Button if you want to see this website",
-      image: "/public/image/portfolio3.png",
+      image: "/image/portfolio3.png",
       link: "https://hong541.github.io/My-Portfolio/",
     },
     {
@@ -31,7 +31,7 @@ const PortoCard = () => {
       title: "Company Portfolio",
       description:
         "This is a company portfolio that I built using the Materialize CSS framework with an interesting parallax prefix. Click Button if you want to see this website",
-      image: "/public/image/portfolio4.png",
+      image: "/image/portfolio4.png",
       link: "https://hong541.github.io/Project-3/",
     },
   ];
