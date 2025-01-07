@@ -52,7 +52,9 @@ const PortoCard = () => {
             </h2>
             <p className="text-gray-600">{item.description}</p>
             <div className="mt-4">
-              <Link to={item.link}>
+              <Link
+                to={item.link}
+                target="_blank">
                 <button className="w-1/8 px-6 py-3 bg-teal-500 hover:bg-teal-600 rounded-lg text-white shadow-md transition transform hover:-translate-y-1 hover:scale-105">
                   Detail
                 </button>

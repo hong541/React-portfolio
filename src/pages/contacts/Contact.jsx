@@ -96,14 +96,17 @@ const Contact = () => {
           <SocialIcon
             type="github"
             href="https://github.com/hong541"
+            target="_blank"
           />
           <SocialIcon
             type="linkedin"
-            href="https://www.linkedin.com/in/hong541/"
+            href="https://www.linkedin.com/in/jabar-maulana-36778a2ab/"
+            target="_blank"
           />
           <SocialIcon
             type="instagram"
             href="https://www.instagram.com/inlovetc/"
+            target="_blank"
           />
         </div>
       </div>
