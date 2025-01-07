@@ -103,7 +103,7 @@ const Contact = () => {
           />
           <SocialIcon
             type="instagram"
-            href="https://www.instagram.com/hong541/"
+            href="https://www.instagram.com/inlovetc/"
           />
         </div>
       </div>
